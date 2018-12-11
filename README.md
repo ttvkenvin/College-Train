@@ -35,6 +35,7 @@ Playbooks: As a coach, you can pick what playbooks your team employs on offense 
 
 ![image](https://github.com/ttvkenvin/College-Train/blob/master/3.png)
 ![image](https://github.com/ttvkenvin/College-Train/blob/master/4.png)
+
 On defense, coaches can choose from the following philosophies:
 * 4-3 Man: a standard 4-3 man-to-man balanced defense.
 * 4-6 Bear: a defense focused on stopping the run that will not allow yards and big plays on the ground, but may give up big passing plays.
@@ -42,4 +43,6 @@ On defense, coaches can choose from the following philosophies:
 * Cover 3: a zone defense that will stop big passing plays, but may allow short gains underneath.
 
 Establish your own college football dynasty today!
+
+# If you have any questions, please feel free to contact us at: wtvfjak124@gmail.com
 
