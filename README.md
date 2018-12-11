@@ -43,5 +43,3 @@ On defense, coaches can choose from the following philosophies:
 
 Establish your own college football dynasty today!
 
-![image](https://github.com/ttvkenvin/College-Train/blob/master/5.png)
-
