@@ -1,5 +1,5 @@
 
-![image]()
+![image](https://github.com/ttvkenvin/College-Train/blob/master/icon-83.5%402x.png)
 # College-Train
 In College Football Coach, you play the newly-hired head coach at your college of choice. As head coach, it will be your responsibility to manage your team's strategy, simulate through seasons, recruit new players, and above all, win championships.
 
@@ -10,6 +10,9 @@ At the end of the regular season, the Conference Championship is played between 
 After the season, your team will gain or lose prestige based on their results versus their expectations.
 
 Rankings: As your team plays through the season, pollsters will determine how good (or bad) your team is compared to others. This "poll ranking" is determined by wins, margin of victory, strength of schedule, and more, and determines who gets into a bowl game and the semifinals.
+
+![image](https://github.com/ttvkenvin/College-Train/blob/master/1.png)
+![image](https://github.com/ttvkenvin/College-Train/blob/master/2.png)
 
 Roster: When you start your career, you'll inherit a roster of 48 players (23 starters), broken down by position like so:
 * 2 Quarterbacks (1 starter)
@@ -30,6 +33,8 @@ Playbooks: As a coach, you can pick what playbooks your team employs on offense 
 * Spread: a pass-heavy offense that focuses on big plays but runs the risk of turnovers.
 * Read Option: an offense that relies heavily on option reads based on coverage and LB positioning.
 
+![image](https://github.com/ttvkenvin/College-Train/blob/master/3.png)
+![image](https://github.com/ttvkenvin/College-Train/blob/master/4.png)
 On defense, coaches can choose from the following philosophies:
 * 4-3 Man: a standard 4-3 man-to-man balanced defense.
 * 4-6 Bear: a defense focused on stopping the run that will not allow yards and big plays on the ground, but may give up big passing plays.
@@ -37,3 +42,6 @@ On defense, coaches can choose from the following philosophies:
 * Cover 3: a zone defense that will stop big passing plays, but may allow short gains underneath.
 
 Establish your own college football dynasty today!
+
+![image](https://github.com/ttvkenvin/College-Train/blob/master/5.png)
+
